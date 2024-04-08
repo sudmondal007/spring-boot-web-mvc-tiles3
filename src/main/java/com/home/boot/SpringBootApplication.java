@@ -1,4 +1,4 @@
-package com.mvmlabs.springboot;
+package com.home.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

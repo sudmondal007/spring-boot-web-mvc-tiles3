@@ -1,4 +1,4 @@
-package com.mvmlabs.springboot;
+package com.home.boot;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
